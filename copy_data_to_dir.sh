@@ -1,0 +1,1 @@
+cp compas-scores-two-years.csv ~/opt/miniconda3/lib/python3.7/site-packages/aif360/data/raw/compas/
